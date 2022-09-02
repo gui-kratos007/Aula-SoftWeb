@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+header{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+background-color:  red;
+}
+
+img#hero{
+width: 110px;
+border-radius: 0%;
+margin-right: -20%;
+}
+
+h1#nome{
+    font-family: 'DynaPuff', cursive;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+nav{
+    background-color: red;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+ul li{
+    display: flex;
+    justify-content: center;
+    width: 100%;;
+}
+
+ul li:hover{
+    background-color: rgb(204, 6, 6);
+}
+
+li a{
+    font-family: 'DynaPuff', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    width: 100%;
+    color: black ;
+}
+
+footer{
+    font-family: 'DynaPuff', cursive;
+    text-align: center;
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+}
