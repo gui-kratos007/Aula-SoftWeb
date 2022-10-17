@@ -64,18 +64,8 @@ img#hero{
         bottom: 0%;
         position: fixed;
         width: 100%;
-    
+       
     }
-    
-    img#copa{
-        width: 800px;
-    }
-
-    img#Libertadores{
-
-        width: 300px;
-    }
-    
     img#fla{
         height: 50px;
     }
@@ -95,18 +85,6 @@ img#hero{
                 font-family: 'DynaPuff', cursive;
                 font-size: 20px;
                 text-decoration: none;
-                color: black ;}
-
-                img#brasileirao{
-                    width: 300px;
-                }
-
-                img#copa{
-                    width: 300px;
-                }
-                img#Libertadores{
-
-                    width: 300px;
-                }
-            }
-    
+                color: black ;
+    }
+}
